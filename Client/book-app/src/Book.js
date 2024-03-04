@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import EditBook from "./EditBook";
 import "./index.css";
 
 export default function Book(props) {
